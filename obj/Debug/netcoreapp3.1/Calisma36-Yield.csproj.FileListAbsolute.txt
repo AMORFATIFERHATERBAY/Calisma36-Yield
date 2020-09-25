@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/Calisma36-Yield/bin/Debug/netcoreapp3.1/Calisma36-Yield.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma36-Yield/bin/Debug/netcoreapp3.1/Calisma36-Yield.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma36-Yield/bin/Debug/netcoreapp3.1/Calisma36-Yield.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma36-Yield/bin/Debug/netcoreapp3.1/Calisma36-Yield.dll
+/Users/amorfati/Desktop/dotnet-deneme/Calisma36-Yield/bin/Debug/netcoreapp3.1/Calisma36-Yield.pdb
+/Users/amorfati/Desktop/dotnet-deneme/Calisma36-Yield/obj/Debug/netcoreapp3.1/Calisma36-Yield.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma36-Yield/obj/Debug/netcoreapp3.1/Calisma36-Yield.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma36-Yield/obj/Debug/netcoreapp3.1/Calisma36-Yield.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/Calisma36-Yield/obj/Debug/netcoreapp3.1/Calisma36-Yield.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma36-Yield/obj/Debug/netcoreapp3.1/Calisma36-Yield.dll
+/Users/amorfati/Desktop/dotnet-deneme/Calisma36-Yield/obj/Debug/netcoreapp3.1/Calisma36-Yield.pdb
+/Users/amorfati/Desktop/dotnet-deneme/Calisma36-Yield/obj/Debug/netcoreapp3.1/Calisma36-Yield.genruntimeconfig.cache
